@@ -1,0 +1,42 @@
+body {
+    background-image: url('https://1.bp.blogspot.com/-8iWVSo1DyJ0/VxNlGb0M4SI/AAAAAAAA95g/gnAAaAbre1UbJV3vzqeA8KU7E1ybW_NYACLcB/s1600/asperatus_priester_1024.jpg');
+    background-size: auto 100vh;
+    height: 100vh
+  
+  }
+  
+  .menu{
+    background-image: url('https://quatrorodas.abril.com.br/wp-content/uploads/2020/01/sony-movimento.gif');
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-StYle: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: teal;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: green;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: white;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+    font-family: arial
+  }
+  
+  
